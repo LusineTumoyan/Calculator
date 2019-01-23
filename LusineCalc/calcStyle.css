@@ -1,0 +1,37 @@
+		th{
+			border: 1px solid black;
+			height: 100px;
+			width: 100px
+		}
+		.myTable{
+			background-color: #3F3F3F;
+		}
+		.innerTable{
+			background-color: #6B736A
+		}
+		button:hover{
+			background-color: #ABB7A9
+		}
+		.button{
+			color: white;
+			font-size: 16px;
+			border: none;
+			background: none;
+			height: 50px;
+			width: 50px			
+		}
+		.operationButton{
+			color: white;
+			font-size: 16px;
+			border: none;
+			background: none;
+			height: 40px;
+			width: 40px
+		}
+		.myInput{
+			width: 200px;
+			height: 100px;
+			position: relative;
+			border: none;
+			font-size: 16pt
+		}
